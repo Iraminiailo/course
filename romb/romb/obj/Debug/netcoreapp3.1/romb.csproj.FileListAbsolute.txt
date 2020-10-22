@@ -1,0 +1,12 @@
+/Users/Ira/Projects/romb/romb/bin/Debug/netcoreapp3.1/romb.deps.json
+/Users/Ira/Projects/romb/romb/bin/Debug/netcoreapp3.1/romb.runtimeconfig.json
+/Users/Ira/Projects/romb/romb/bin/Debug/netcoreapp3.1/romb.runtimeconfig.dev.json
+/Users/Ira/Projects/romb/romb/bin/Debug/netcoreapp3.1/romb.dll
+/Users/Ira/Projects/romb/romb/bin/Debug/netcoreapp3.1/romb.pdb
+/Users/Ira/Projects/romb/romb/obj/Debug/netcoreapp3.1/romb.csprojAssemblyReference.cache
+/Users/Ira/Projects/romb/romb/obj/Debug/netcoreapp3.1/romb.AssemblyInfoInputs.cache
+/Users/Ira/Projects/romb/romb/obj/Debug/netcoreapp3.1/romb.AssemblyInfo.cs
+/Users/Ira/Projects/romb/romb/obj/Debug/netcoreapp3.1/romb.csproj.CoreCompileInputs.cache
+/Users/Ira/Projects/romb/romb/obj/Debug/netcoreapp3.1/romb.dll
+/Users/Ira/Projects/romb/romb/obj/Debug/netcoreapp3.1/romb.pdb
+/Users/Ira/Projects/romb/romb/obj/Debug/netcoreapp3.1/romb.genruntimeconfig.cache

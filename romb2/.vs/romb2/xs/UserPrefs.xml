@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{6CCA4442-9741-4CD1-AAE8-0DB10E0CC573}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="romb2/Program.cs">
+    <Files>
+      <File FileName="romb2/Program.cs" Line="26" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.romb2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

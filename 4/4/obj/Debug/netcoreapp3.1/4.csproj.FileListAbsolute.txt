@@ -1,0 +1,12 @@
+/Users/Ira/Projects/4/4/bin/Debug/netcoreapp3.1/4.deps.json
+/Users/Ira/Projects/4/4/bin/Debug/netcoreapp3.1/4.runtimeconfig.json
+/Users/Ira/Projects/4/4/bin/Debug/netcoreapp3.1/4.runtimeconfig.dev.json
+/Users/Ira/Projects/4/4/bin/Debug/netcoreapp3.1/4.dll
+/Users/Ira/Projects/4/4/bin/Debug/netcoreapp3.1/4.pdb
+/Users/Ira/Projects/4/4/obj/Debug/netcoreapp3.1/4.csprojAssemblyReference.cache
+/Users/Ira/Projects/4/4/obj/Debug/netcoreapp3.1/4.AssemblyInfoInputs.cache
+/Users/Ira/Projects/4/4/obj/Debug/netcoreapp3.1/4.AssemblyInfo.cs
+/Users/Ira/Projects/4/4/obj/Debug/netcoreapp3.1/4.csproj.CoreCompileInputs.cache
+/Users/Ira/Projects/4/4/obj/Debug/netcoreapp3.1/4.dll
+/Users/Ira/Projects/4/4/obj/Debug/netcoreapp3.1/4.pdb
+/Users/Ira/Projects/4/4/obj/Debug/netcoreapp3.1/4.genruntimeconfig.cache

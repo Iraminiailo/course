@@ -1,0 +1,12 @@
+/Users/Ira/Projects/triangle2/triangle2/bin/Release/netcoreapp3.1/triangle2.deps.json
+/Users/Ira/Projects/triangle2/triangle2/bin/Release/netcoreapp3.1/triangle2.runtimeconfig.json
+/Users/Ira/Projects/triangle2/triangle2/bin/Release/netcoreapp3.1/triangle2.runtimeconfig.dev.json
+/Users/Ira/Projects/triangle2/triangle2/bin/Release/netcoreapp3.1/triangle2.dll
+/Users/Ira/Projects/triangle2/triangle2/bin/Release/netcoreapp3.1/triangle2.pdb
+/Users/Ira/Projects/triangle2/triangle2/obj/Release/netcoreapp3.1/triangle2.AssemblyInfoInputs.cache
+/Users/Ira/Projects/triangle2/triangle2/obj/Release/netcoreapp3.1/triangle2.AssemblyInfo.cs
+/Users/Ira/Projects/triangle2/triangle2/obj/Release/netcoreapp3.1/triangle2.csproj.CoreCompileInputs.cache
+/Users/Ira/Projects/triangle2/triangle2/obj/Release/netcoreapp3.1/triangle2.dll
+/Users/Ira/Projects/triangle2/triangle2/obj/Release/netcoreapp3.1/triangle2.pdb
+/Users/Ira/Projects/triangle2/triangle2/obj/Release/netcoreapp3.1/triangle2.genruntimeconfig.cache
+/Users/Ira/Projects/triangle2/triangle2/obj/Release/netcoreapp3.1/triangle2.csprojAssemblyReference.cache

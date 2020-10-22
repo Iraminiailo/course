@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{963A7E2A-6952-4A71-9891-FFF37DC2A349}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="triangle2/Program.cs">
+    <Files>
+      <File FileName="triangle2/Program.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.triangle2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
