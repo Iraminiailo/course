@@ -1,6 +1,7 @@
 .gitignore
 .git
 .idea
+.idea/workspace.xml
 2/.vs
 3/.vs
 4/.vs
