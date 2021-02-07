@@ -6,8 +6,12 @@ namespace pifagor
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter m");
+            int m = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter p");
+            int p = int.Parse(Console.ReadLine());
 
-            for (int i = 1; i <= 9; i++)
+            for (int i = m; i <= p; i++)
                 if(i <= 1)
                 {
                     Console.Write("    1");
@@ -20,7 +24,7 @@ namespace pifagor
 
 
 
-            for (int j = 1; j <= 9; j++)
+            for (int j = m; j <= p; j++)
 
                 if (j <= 1)
                 {
@@ -33,21 +37,21 @@ namespace pifagor
 
                     Console.Write("\n");
 
-           
 
 
-            for (int n = 1; n <= 9; n++)
+
+            for (int n = m; n <= p; n++)
             {
                 Console.Write(n + "|");
-                for (int a = 1; a <= 9; a++)
-               
+                for (int a = m; a <= p; a++)
+
                 {
                     int t = n * a;
                     if (t < 10)
                     {
                         Console.Write("  " + t);
                     }
-                   
+
                     else
                     {
                         Console.Write(" " + t);
@@ -58,7 +62,7 @@ namespace pifagor
                 Console.Write("\n");
 
             }
-            
+
             Console.ReadLine();
 
         }
